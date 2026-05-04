@@ -17,6 +17,3 @@ Heya, I'm Simran!<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simsushi-onigiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=simsushi-onigiri&icon=5&color=11)](https://visitcount.itsvg.in)
