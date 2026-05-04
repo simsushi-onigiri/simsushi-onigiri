@@ -1,7 +1,3 @@
-## Hey you!! 👋
-
-<!--
-**simsushi-onigiri/simsushi-onigiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 Heya, I'm Simran!<br><br>Currently, I'm working on creating a portfolio for Data/Business Analyst roles. <br><br>I like delivering analytical insights while ensuring they are factual and fun to engage with for everyone. <br><br>In my free time I like to either solve puzzles, watch anime, learn a new language, read on Substack, or paint a little <3
